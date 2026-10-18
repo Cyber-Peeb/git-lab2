@@ -8,7 +8,7 @@
 int calculateSum(int a, int b)
 {
     // TODO: return the sum of the two numbers.
-    return a - b;
+    return b + a;
 }
 
 int findMaximum(int a, int b)
