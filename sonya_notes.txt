@@ -1,0 +1,2 @@
+Variant 1: Sonya notes
+calculateSum returns a + b.
